@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    margin: min(15px, 5vw);
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+td {
+    text-align: center;
+}
+
+td.under-passing-grade {
+    color: red;
+}
+
+th {
+    background-color: #999;
+}
+
+tr:nth-child(even) {
+    background-color: #cacaca;
+}

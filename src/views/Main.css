@@ -1,0 +1,14 @@
+.table-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+.table-wrapper>div {
+    margin-bottom: 10%;
+    margin-right: 10%;
+    margin-right: 10%;
+}
